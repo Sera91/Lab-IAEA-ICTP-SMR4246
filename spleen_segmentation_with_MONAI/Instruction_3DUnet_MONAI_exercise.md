@@ -30,7 +30,7 @@ This 80-minute session uses MONAI to train a 3D U-Net to auto-contour the spleen
    - Option A (recommended): click the badge below.
    - Option B: download `spleen_segmentation_MONAI_student.ipynb`, go to [colab.research.google.com](https://colab.research.google.com), choose `File → Upload notebook`.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHANGE_ME/REPO_NAME/blob/main/spleen_segmentation_MONAI_student.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sera91/Lab-IAEA-ICTP-SMR4246/blob/main/spleen_segmentation_with_MONAI/spleen_segmentation_MONAI_solution.ipynb)
 
 > Replace `CHANGE_ME/REPO_NAME` in the badge URL above with your actual GitHub username and repository name.
 
